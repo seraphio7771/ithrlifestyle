@@ -2,7 +2,7 @@
 <widget id="com.sergiydomanitskiy.ithrlifestyle" version="1.0.0">
   <name>IT HR LifeStyle</name>
   <description>
-
+    Практична дводенна UnConference для HR та Recruiters, що проводиться у Львові
   </description>
   <content src="package.json" />
   <preference name="Fullscreen" value="false" />

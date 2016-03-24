@@ -1,6 +1,6 @@
 {
   "title": "IT HR LifeStyle",
-  "description": "",
+  "description": "Практична дводенна UnConference для HR та Recruiters, що проводиться у Львові",
   "main": "app.js",
   "dependencies": {
     "promise": "^6.1.0",
